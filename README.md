@@ -8,8 +8,7 @@
 <b>Discipline | <b> Mechanical Engineering 
 :--|:--|
 <b> Lab | <b> **Kinematics and Dynamics of Mechanisms**
-<b> Experiment|     <b> **Position Analysis of a 4 Bar RRRR Non Grashofian Double Rocker Mechanism
- and Experiment 6**
+<b> Experiment|     <b> **Position Analysis of a 4 Bar RRRR Non Grashofian Double Rocker Mechanism and Experiment 6**
 
 
 ### Subject Matter Expert 
